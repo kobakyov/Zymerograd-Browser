@@ -29,7 +29,7 @@ Install dependencies:
 py -m pip install PyQt6 PyQt6-WebEngine
 Launch the browser:
 
-py C:\Users\"username"\Downloads\Zoomer City Browser\zoomercity browser
+py C:\Users\"username"\Downloads\Zoomer City Browser\zoomercity browser.py
 
 🛠 Customization
 To change the homepage or add your own bookmarks, edit the go_home() method in the main file. You can use any HTML/CSS to create your own unique experience.
